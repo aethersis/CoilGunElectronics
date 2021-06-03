@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRS10752LTRPBF
+D Infineon IRS10752LTRPBF MOSFET Power Driver, 240mA, 10  18 V, Non-Inverting, SOT-23 6-Pin
+K
+F http://www.mouser.com/ds/2/196/Infineon-IRS10752L-DS-v01_02-EN-938039.pdf
+$ENDCMP
+#
+#End Doc Library

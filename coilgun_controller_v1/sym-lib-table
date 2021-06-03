@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name R1SX-3.33.3-R)(type Legacy)(uri ${KIPRJMOD}/r1sx.pretty/R1SX-3.33.3-R.lib)(options "")(descr ""))
+  (lib (name SPAN02A-12)(type Legacy)(uri ${KIPRJMOD}/span02.pretty/SPAN02A-12.lib)(options "")(descr ""))
+  (lib (name IRS10752LTRPBF)(type Legacy)(uri ${KIPRJMOD}/IRS10752/IRS10752LTRPBF.lib)(options "")(descr ""))
+)

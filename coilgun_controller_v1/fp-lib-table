@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name r1sx)(type KiCad)(uri ${KIPRJMOD}/r1sx.pretty)(options "")(descr ""))
+  (lib (name span02)(type KiCad)(uri ${KIPRJMOD}/span02.pretty)(options "")(descr ""))
+  (lib (name IRS10752)(type KiCad)(uri ${KIPRJMOD}/IRS10752)(options "")(descr ""))
+)
